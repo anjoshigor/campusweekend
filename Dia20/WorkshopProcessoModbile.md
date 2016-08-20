@@ -16,10 +16,13 @@ Softwares: pop, invision.
 > "Fazer o layout é só 10% do trabalho" - [Arquitetura de informação](arquiteturadeinformacao.com "Arquitetura de Informação")
 
 Referências:
-[Google Design Website](https://design.google.com/), 
+[Google Design Website](https://design.google.com/),
 [Apple Design](https://developer.apple.com/design/)
 
 Softwares: Sketch, Photoshop, Adobe Xd
 
 ##4. Specs e Imagens
 Softwares: Zeplin
+
+#####TrampolimAcademy
+edson@trampolim.co
